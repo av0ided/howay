@@ -15,6 +15,7 @@ pub const DISCORD_LIST_GUILDS: &str = "https://discordapp.com/api/v6/users/@me/g
 pub const TOPEST_DISCORD_INVITE_LINK: &str = "47PDSBM2";
 pub const HABIBI_DISCORD_INVITE_LINK: &str = "QQBb2JcUdF";
 pub const MEMES_DISCORD_INVITE_LINK: &str = "TFAq8FZ";
+pub const METALLUM_DISCORD_INVITE_LINK: &str = "fBXkNAJ";
 pub const DISCORD_INVITE_LINK: &str = MEMES_DISCORD_INVITE_LINK;
 
 #[derive(Default, Debug, Clone, PartialEq, Serialize, Deserialize)]
