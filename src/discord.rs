@@ -16,7 +16,7 @@ pub const TOPEST_DISCORD_INVITE_LINK: &str = "47PDSBM2";
 pub const HABIBI_DISCORD_INVITE_LINK: &str = "QQBb2JcUdF";
 pub const MEMES_DISCORD_INVITE_LINK: &str = "TFAq8FZ";
 pub const METALLUM_DISCORD_INVITE_LINK: &str = "fBXkNAJ";
-pub const AGUSSQUAD_DISCORD_INVITE_LINK: &str = "G2M84Zr";
+pub const AGUSSQUAD_DISCORD_INVITE_LINK: &str = "sYeFH8TP";
 pub const DISCORD_INVITE_LINK: &str = AGUSSQUAD_DISCORD_INVITE_LINK;
 
 #[derive(Default, Debug, Clone, PartialEq, Serialize, Deserialize)]
